@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ai
+Version: 1.0.0
+Requires-Dist: typer[all]
+Requires-Dist: requests
+Requires-Dist: rich
+Requires-Dist: PyPDF2
+Dynamic: requires-dist
