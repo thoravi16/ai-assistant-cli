@@ -53,7 +53,6 @@ Chat mode:
 ```bash
 ai chat
 ```
-![AI CLI Demo](docs/demo.png)
 
 Generate code:
 
@@ -103,6 +102,8 @@ ai-assistant-cli
 ```
 
 ---
+## Demo Screenshot
+![AI CLI Demo](docs/demo.png)
 
 ## License
 
