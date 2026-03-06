@@ -22,6 +22,15 @@ A lightweight CLI tool that brings AI directly into your terminal for coding, de
 * Groq API Support
 * Ollama Offline Fallback
 
+## Technologies Used
+
+* Python
+* Typer (CLI framework)
+* Rich (terminal UI)
+* Groq API (LLM)
+* Ollama (local LLM fallback)
+* Requests library
+
 ---
 
 ## Installation
@@ -63,7 +72,7 @@ ai code "python script to scrape a website"
 Summarize file:
 
 ```bash
-ai summarize notes.txt
+ai summarize text.txt
 ```
 
 Explain code:
