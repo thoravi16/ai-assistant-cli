@@ -167,10 +167,7 @@ def code(task: str):
 
 @app.command()
 def dev():
-    """
-    Developer copilot mode
-    """
-
+    
     console.print("\nAI Developer Mode (type 'exit' to quit)\n")
 
     while True:
